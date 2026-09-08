@@ -1,0 +1,20 @@
+{
+  "id": "roll-0008",
+  "film": "Kodak 5219",
+  "camera": "Pentax KX",
+  "date": {
+    "started": "2026-09-08",
+    "finished": ""
+  },
+  "development": {
+    "lab": "菲林公园",
+    "process": "ECN-2",
+    "digitization": {
+      "method": "scanner",
+      "brand": "Noritsu",
+      "model": "HS-1800"
+    }
+  },
+  "note": "sfsdjfklsjdlkfjslkdfjlksjdlkfjsldkfjlsdjfklsjdfskldfjlskdjflskdjflsjkldfjlksjflkjskldjflskjdflksjdflksjldfjsldfjsdf",
+  "updated": "2026-09-08T12:11:28.010Z"
+}
