@@ -1,0 +1,21 @@
+{
+  "id": "0016",
+  "film": "Kodak Gold 200",
+  "format": "120",
+  "camera": "Pentax MX",
+  "date": {
+    "started": "2026-09-09",
+    "finished": ""
+  },
+  "development": {
+    "lab": "",
+    "process": "",
+    "digitization": {
+      "method": "",
+      "brand": "",
+      "model": ""
+    }
+  },
+  "note": "",
+  "updated": "2026-09-09T02:58:01.808Z"
+}
