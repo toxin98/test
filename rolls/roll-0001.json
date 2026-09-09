@@ -1,0 +1,21 @@
+{
+  "id": "roll-0001",
+  "film": "Kodak 5207",
+  "format": "120",
+  "camera": "Pentax LX",
+  "date": {
+    "started": "2026-09-09",
+    "finished": "2026-09-09"
+  },
+  "development": {
+    "lab": "",
+    "process": "",
+    "digitization": {
+      "method": "",
+      "brand": "",
+      "model": ""
+    }
+  },
+  "note": "",
+  "updated": "2026-09-09T02:39:28.394Z"
+}
