@@ -1,6 +1,7 @@
 {
   "id": "0006",
   "film": "Kodak Gold 200",
+  "format": "135",
   "camera": "Pentax KX",
   "date": {
     "started": "2024-08-17",
@@ -16,5 +17,5 @@
     }
   },
   "note": "",
-  "updated": "2026-09-08T10:52:37.105Z"
+  "updated": "2026-09-09T02:25:56.141Z"
 }
