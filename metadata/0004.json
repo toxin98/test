@@ -1,6 +1,7 @@
 {
   "id": "0004",
   "film": "Kodak ColorPlus 200",
+  "format": "135",
   "camera": "Pentax KX",
   "date": {
     "started": "2023-05-28",
@@ -16,5 +17,5 @@
     }
   },
   "note": "2020年过期胶卷",
-  "updated": "2026-09-08T10:52:37.105Z"
+  "updated": "2026-09-09T02:26:05.512Z"
 }
