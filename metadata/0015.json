@@ -1,13 +1,14 @@
 {
   "id": "0015",
   "film": "Kodak 5219",
+  "format": "135",
   "camera": "Pentax MX",
   "date": {
     "started": "2026-09-05",
     "finished": "2026-09-05"
   },
   "development": {
-    "lab": "大连, 感光实验室",
+    "lab": "",
     "process": "",
     "digitization": {
       "method": "",
@@ -16,5 +17,6 @@
     }
   },
   "note": "",
-  "updated": "2026-09-08T10:52:37.105Z"
+  "updated": "2026-09-09T02:15:01.667Z",
+  "_sha": "68140cb3c6ce1390d69f7974ec53c9e6ad0543f4"
 }
